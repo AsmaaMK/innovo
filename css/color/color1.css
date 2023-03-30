@@ -14,8 +14,9 @@
 /* image path            : ../../images/color/color1/
 /* --------------------------------------------------------------------- */
 :root {
-  --primary-color:  #ffb535;
-  --secondary-color: #ffa202;
+  --primary-color: #e82724;
+  --secondary-color: #d42926;
+  --dark-color: #292929;
 }
 
 a {
@@ -63,7 +64,7 @@ a:focus {
   color:  var(--primary-color);
 }
 .mv-btn.mv-btn-style-1 {
-  background-image: url("../../images/color/color1/icon/icon_polygon_7.png");
+  background-image: url("../../images/color/color1/icon/icon_polygon_7_red.png");
 }
 @media screen and (min-width: 992px) {
   .mv-btn.mv-btn-style-1:hover {
@@ -80,12 +81,12 @@ a:focus {
 }
 @media screen and (min-width: 992px) {
   .mv-btn.mv-btn-style-1.btn-1-dark:hover {
-    background-image: url("../../images/color/color1/icon/icon_polygon_7.png");
+    background-image: url("../../images/color/color1/icon/icon_polygon_7_red.png");
   }
 }
 .mv-btn.mv-btn-style-1.btn-1-dark:active,
 .mv-btn.mv-btn-style-1.btn-1-dark.active {
-  background-image: url("../../images/color/color1/icon/icon_polygon_7.png");
+  background-image: url("../../images/color/color1/icon/icon_polygon_7_red.png");
 }
 @media screen and (min-width: 992px) {
   .mv-btn.mv-btn-style-1.btn-1-gray:hover {

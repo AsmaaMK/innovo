@@ -1516,7 +1516,7 @@ h6 {
   color: #fff;
   border: 0 none;
   background-color: #fff;
-  background-image: url("../images/icon/icon_polygon_7.png");
+  background-image: url("../images/icon/icon_polygon_7_red.png");
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-border-radius: 0;
@@ -1593,12 +1593,12 @@ h6 {
 }
 @media screen and (min-width: 992px) {
   .mv-btn.mv-btn-style-1.btn-1-dark:hover {
-    background-image: url("../images/icon/icon_polygon_7.png");
+    background-image: url("../images/icon/icon_polygon_7_red.png");
   }
 }
 .mv-btn.mv-btn-style-1.btn-1-dark:active,
 .mv-btn.mv-btn-style-1.btn-1-dark.active {
-  background-image: url("../images/icon/icon_polygon_7.png");
+  background-image: url("../images/icon/icon_polygon_7_red.png");
 }
 .mv-btn.mv-btn-style-1.btn-1-gray {
   background-color: #f6f6f6;

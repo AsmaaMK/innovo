@@ -58,7 +58,7 @@ a:focus {
   color: #8fa4a2;
 }
 .mv-btn.mv-btn-style-1 {
-  background-image: url("../../images/color/color5/icon/icon_polygon_7.png");
+  background-image: url("../../images/color/color5/icon/icon_polygon_7_red.png");
 }
 @media screen and (min-width: 992px) {
   .mv-btn.mv-btn-style-1:hover {
@@ -75,12 +75,12 @@ a:focus {
 }
 @media screen and (min-width: 992px) {
   .mv-btn.mv-btn-style-1.btn-1-dark:hover {
-    background-image: url("../../images/color/color5/icon/icon_polygon_7.png");
+    background-image: url("../../images/color/color5/icon/icon_polygon_7_red.png");
   }
 }
 .mv-btn.mv-btn-style-1.btn-1-dark:active,
 .mv-btn.mv-btn-style-1.btn-1-dark.active {
-  background-image: url("../../images/color/color5/icon/icon_polygon_7.png");
+  background-image: url("../../images/color/color5/icon/icon_polygon_7_red.png");
 }
 @media screen and (min-width: 992px) {
   .mv-btn.mv-btn-style-1.btn-1-gray:hover {
